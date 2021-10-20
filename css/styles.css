@@ -26,10 +26,31 @@
   color: rgb(13, 66, 128);
 }
 
+.owl img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
 .raccoon h2 {
   color: rgb(226, 133, 10);
 }
 
 .albert h2 {
-  color: ;
+  color: rgb(139, 0, 139); 
+}
+
+.raccoon img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.albert img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
