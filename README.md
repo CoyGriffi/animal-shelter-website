@@ -15,7 +15,7 @@ Software Requirements
 * A code editor; I prefer VSCode
 
 Open by Downloading or Cloning
-* Navigate to [http://localhost:5500/animal-shelter-website.html]
+* Navigate to https://github.com/CoyGriffi/animal-shelter-website
 * Download this repository to your computer by clicking the green Code button and 'Download Zip'
 * Or clone the repository
 
