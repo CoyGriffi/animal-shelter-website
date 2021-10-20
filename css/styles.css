@@ -10,24 +10,26 @@
 .column p {
   font-size: 16px;
   text-align: center;
-}
-
-.raccoon {
-  color: #b46a0a;
-
-}
-
-.owl {
-  
-}
-
-.albert {
-color: #8B008B 
-font: 
-
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .column h2 {
   text-align: center;
   text-decoration: rgb(9, 9, 34) underline;
+}
+
+.column h3 {
+  text-align: center;
+}
+
+.owl h2 {
+  color: rgb(13, 66, 128);
+}
+
+.raccoon h2 {
+  color: rgb(226, 133, 10);
+}
+
+.albert h2 {
+  color: ;
 }
