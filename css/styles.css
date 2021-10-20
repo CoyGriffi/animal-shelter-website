@@ -1,18 +1,33 @@
-.raccooncolumn {
-float: left; 
-width: 300px;
-}
-
-.owlcolumn {
- float: left;
- width: 300px;
-}
-
-.albertcolumn {
+.column {
   float: left;
   width: 300px;
+  font-size: 30px;
+  border: solid black 5px;
+  margin: 5px;
+  padding: 4px;
 }
 
-.row {
+.column p {
+  font-size: 16px;
+  text-align: center;
+}
+
+.raccoon {
+  color: #b46a0a;
+
+}
+
+.owl {
   
+}
+
+.albert {
+color: #8B008B 
+font: 
+
+}
+
+.column h2 {
+  text-align: center;
+  text-decoration: rgb(9, 9, 34) underline;
 }
