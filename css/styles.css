@@ -1,11 +1,18 @@
 .raccooncolumn {
-  float: left;
+float: left; 
+width: 300px;
 }
 
 .owlcolumn {
-  float: left;
+ float: left;
+ width: 300px;
 }
 
 .albertcolumn {
   float: left;
+  width: 300px;
+}
+
+.row {
+  
 }
